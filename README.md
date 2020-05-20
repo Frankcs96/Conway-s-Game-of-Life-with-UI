@@ -1,11 +1,11 @@
-#Conway's Game of Life
+# Conway's Game of Life
 
 To run the app
 ```console
 java -jar gameoflife.jar
 ```
 
-###Controls
+### Controls
 * Left click to draw
 * Left click to erase
 * Space to pause/unpause
