@@ -7,7 +7,7 @@ java -jar gameoflife.jar
 
 ### Controls
 * Left click to draw
-* Left click to erase
+* Right click to erase
 * Space to pause/unpause
 
 have fun drawing your patterns!
